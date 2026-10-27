@@ -77,7 +77,7 @@ Please include:
 
 ## Credits
 
-Created by **[YOUR NAME]**.
+Created by Radu.
 Written with help from Claude (Anthropic's AI assistant). It doesn't include code from other addons; it only uses the game's standard interface functions.
 
 ## License
